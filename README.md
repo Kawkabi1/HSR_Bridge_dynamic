@@ -28,4 +28,5 @@ If you have any questions or suggestions, feel free to reach out to me at [kawka
 
 ## References
 the load function for HSLM-A loading set is defined based on the approach adopted from the method developed by CARINE MELLIER and Raid Karoumi
-*Mellier, Carine. Optimal Design of Bridges for High-Speed Trains: Single and double-span bridges. Master of Science Thesis, Royal Institute of Technology (KTH), Stockholm, Sweden, 2010.
+
+Mellier, Carine. Optimal Design of Bridges for High-Speed Trains: Single and double-span bridges. Master of Science Thesis, Royal Institute of Technology (KTH), Stockholm, Sweden, 2010.
