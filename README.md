@@ -1,4 +1,5 @@
 ## Dynamic Behaviour Study of High-Speed Railway Bridges  
+By: Khaja Wahaajuddin Kawkabi (PhD Candidate in Northwestern Polytechnical University)
 
 This repository contains MATLAB algorithms and models to study the dynamic behaviour of high-speed railway bridges using three methods:  
 
