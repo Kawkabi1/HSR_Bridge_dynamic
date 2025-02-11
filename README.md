@@ -1,4 +1,4 @@
-Dynamic Behaviour Study of High-Speed Railway Bridges  
+## Dynamic Behaviour Study of High-Speed Railway Bridges  
 
 This repository contains MATLAB algorithms and models to study the dynamic behaviour of high-speed railway bridges using three methods:  
 
