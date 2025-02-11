@@ -27,6 +27,14 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 If you have any questions or suggestions, feel free to reach out to me at [kawkabi@mail.nwpu.edu.cn](mailto:kawkabi@mail.nwpu.edu.cn).
 
 ## References
-the load function for HSLM-A loading set is defined based on the approach adopted from the method developed by CARINE MELLIER and Raid Karoumi
+The load function for the HSLM-A loading set is defined based on the methodology developed by Carine Mellier and Raid Karoumi:
 
-Mellier, Carine. Optimal Design of Bridges for High-Speed Trains: Single and double-span bridges. Master of Science Thesis, Royal Institute of Technology (KTH), Stockholm, Sweden, 2010.
+-Mellier, C. (2010). Optimal Design of Bridges for High-Speed Trains: Single and Double-Span Bridges. Master of Science Thesis, Royal Institute of Technology (KTH), Stockholm, Sweden.
+
+The theoretical model is based on the work of:
+
+-Yang, Y. B., Yau, J. D., & Wu, Y. S. (2004). Vehicle-bridge interaction dynamics with applications to high-speed railways.
+
+The finite element model in MATLAB is developed in accordance with the approach outlined by:
+
+-Paz, M., & Kim, Y. H. (2019). Dynamic Analysis of Beams. In Structural Dynamics. Springer, Cham. https://doi.org/10.1007/978-3-319-94743-3_10
